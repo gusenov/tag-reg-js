@@ -1,10 +1,10 @@
 {
   "name": "tag-reg",
   "version": "0.0.1",
-  "description": "JavaScript структура данных для хранения записей вида ключ-значение, где ключ - это набор тегов.",
+  "description": "TagRegistry is a tag-based registry that can be used for an in-memory local variable data.",
   "main": "tag-reg.js",
   "scripts": {
-    "test": "node test1.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
